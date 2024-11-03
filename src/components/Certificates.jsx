@@ -28,9 +28,9 @@ const CertificateCard = ({
         />
         <p className="text-white ml-7">{company}</p>
       </div>
-      <p className="text-secondary text-[14px] mt-3">{text}</p>
+      <p className="text-secondary text-[14px] mt-5">{text}</p>
       <div
-        className=" mt-5 flex justify-center items-center cursor-pointer hover:scale-105 pr-14 "
+        className=" mt-8 flex justify-center items-center cursor-pointer hover:scale-105 pr-14 "
         role="button"
         onClick={() => window.open(link, "_blank")}
       >

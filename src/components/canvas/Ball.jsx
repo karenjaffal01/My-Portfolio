@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import {
   Decal, //to put a 2d element on a 3d object

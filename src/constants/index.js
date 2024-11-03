@@ -67,10 +67,6 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
     name: "CSS 3",
     icon: css,
   },
@@ -143,7 +139,7 @@ const experiences = [
     company_name: "Freelance",
     icon: tutor,
     iconBg: "#E6DEDD",
-    date: "Oct 2021 - Present",
+    date: "Oct 2022 - Present",
     points: [
       " I developed strong communication skills by explaining complex concepts clearly to students.",
       " My problem-solving skills improved as I adapted lessons to address individual student needs and learning obstacles.",
@@ -155,7 +151,7 @@ const experiences = [
 const certificates = [
   {
     id: 1,
-    text: "This certificate showcases all the cloud skills I gained through my AWS re/Start journey which made me gain all the foundations in working with the cloud and how to benefit from the services it provided alongside applying all my knowledge with AWS directly ",
+    text: "This certificate showcases all the cloud skills I gained through my AWS re/Start journey which made me gain all the foundations in working with the cloud and how to benefit from the services it provided and applying them directly. ",
     link: "coming soon",
     designation: "Cloud Practitioner",
     company: "AWS",
@@ -163,7 +159,7 @@ const certificates = [
   },
   {
     id: 2,
-    text: "Through 9 courses I gained this certificate where I worked on various web technologies and done projects to fully grasp all the concepts making me skilled in building responsive and interactive user-interfaces",
+    text: "Through 9 courses I gained this certificate where I worked on various web technologies and done projects to fully grasp all the concepts making me skilled in building responsive and interactive user-interfaces to provide best products.",
     link: "https://www.credly.com/badges/3c1da8dd-4f52-4504-8ca1-c872c828a5c3",
     designation: "Front-End Developer",
     company: "META",
@@ -171,7 +167,7 @@ const certificates = [
   },
   {
     id: 3,
-    text: "I dived into all the core concepts of machine learning which made me get a solid foundation on everything needed to dive deep into AI and machine learning alongside with on-hands projects that shows everything I learned",
+    text: "I dived into all the core concepts of machine learning which made me get a solid foundation on everything needed to dive deep into AI and machine learning alongside with on-hands projects.",
     link: "coming soon",
     designation: "ML Specialization",
     company: "ZAKA",
